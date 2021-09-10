@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+ 
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,6 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Changed to from .hero to #hero for it being an id */
 
 .float-left {
     float: left;
